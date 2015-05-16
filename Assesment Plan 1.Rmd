@@ -2,7 +2,7 @@
 title: "Reproducible Research-Peer Assessment 1"
 author: "Albion Dervishi"
 date: "May 16, 2015"
-output: pdf_document
+output: html_document
 ---
 This is project from the Reproducible Research course in Coursera Data Science specialization track. Using the file"activity" and analyse it as based in the project purpose.
 
